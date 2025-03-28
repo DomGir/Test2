@@ -1,6 +1,6 @@
 # Test 2
 
-Name: Dominick girard
+Name: Dominick Girard
 
 EagleId: 901334075
 
